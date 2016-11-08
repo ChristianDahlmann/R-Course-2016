@@ -1,0 +1,25 @@
+---
+title: "Hilfsquellen"
+author: "ChristianDahlmann"
+date: "8 November 2016"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Auflistung von Hilfsquellen:
+-R Dokumentation
+  "RHelp"
+    An Introduction To R
+    R Data Import/Export
+    Getting Help with R
+    CRAN Task Views
+    R on StackOverflow
+  
+-Suchmaske in RStudio
+
+-Internet
+  R auf wikipedia
+  R Tutorials auf Youtube
